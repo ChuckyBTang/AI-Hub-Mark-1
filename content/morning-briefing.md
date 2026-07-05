@@ -2,21 +2,21 @@
 title: Morning Briefing
 emoji: ☀️
 category: tools
-updated: 2026-07-04
+updated: 2026-07-06
 ---
 
-# Morning Briefing — Saturday, 04 July 2026
+# Morning Briefing — Monday, 06 July 2026
 
 ## Lower North Shore market
-- Sydney's median auction house price eased to about $1.64M last week, down from $1.80M the prior week and ~7.9% below the same week a year ago — buyers have more room to negotiate.
-- Auction clearance is soft market-wide (~47% for the weeks to mid-June, the weakest non-holiday result since April 2020) — well-presented, correctly-priced listings are what's selling.
-- Lifestyle pockets including the Lower North Shore are holding firmer than the broader market, with genuine emotional competition still showing at auction for quality homes.
-- RBA held the cash rate at 4.35% at its early-June meeting; inflation remains too high, so no near-term relief for borrowers — frame conversations around today's conditions, not a rate cut.
-- Winter listing volumes are thin — a good moment to remind vendors that less competing stock can mean a cleaner run at motivated buyers.
+- Auctions are soft nationally: the combined-capitals final clearance rate was ~45% for the week ending 28 June — the weakest since late 2022. Sydney held up better at ~51%.
+- The RBA left the cash rate unchanged at 4.35% at its most recent meeting, with earlier 2026 rises still feeding through — buyers remain rate-cautious.
+- Lower North Shore fundamentals stay strong: suburb-level median house price around $2.875m, with demand concentrated here alongside the Inner West and Eastern Suburbs.
+- Northbridge remains premium — typical value around $4.2m, median rent ~$1,554/wk (gross yield ~1.9%). North Sydney council area sits near $3.5m typical, ~2.2% yield.
+- Willoughby auction activity has been patchy (recent clearance ~47%), so well-priced, well-presented listings and pre-auction offers are winning.
 
 ## Sydney weather today
-- Cool winter's day on the North Shore: high around 19°C, low near 12°C, light winds and low rain chance.
-- Good conditions for open homes — dry and mild. Warm the property up, put lights on to counter the low winter sun, and lead buyers to the sunniest rooms.
+- Clear and cold: around 17°C top, dropping to ~6°C overnight, no rain expected, light winds.
+- Good conditions for opens and inspections — dry and bright presents well; open up homes early to take the morning chill off.
 
 ## Focus for today
 **Top 3 priorities**
@@ -24,12 +24,12 @@ updated: 2026-07-04
 2. ___
 3. ___
 
-In a slower market, consistency wins listings — the agent who keeps showing up is the one vendors remember.
+Soft markets reward the agents who keep showing up — consistency now is what converts when momentum returns.
 
 ## Day plan
-- 8:00–9:00 — Prospecting calls / follow-ups from last week's opens
-- 9:00–10:30 — Buyer callbacks & database check-ins
+- 8:00–9:00 — Prospecting / vendor calls
+- 9:00–10:30 — Buyer callbacks & follow-ups
 - 10:30–12:30 — Appraisals / listing presentations
-- 12:30–1:30 — Admin, marketing, portal updates
-- 1:30–3:30 — Open homes / inspections
-- 3:30–4:30 — Vendor reports & wrap-up
+- 12:30–1:30 — Admin & CRM updates
+- 1:30–3:30 — Open home prep & inspections
+- 3:30–5:00 — Pipeline review & tomorrow's plan
